@@ -1,5 +1,5 @@
 const constants = {
-    mongoDBConnectionString: 'mongodb://18.220.11.106:27017/watchmen-db',
+    mongoDBConnectionString: 'mongodb://watchmen:123456!@ds149479.mlab.com:49479/watchmen-db',
     sessionKey: 'the camp alpha',
 };
 
